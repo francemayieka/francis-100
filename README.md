@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I'm passionate about Software Engineering and currently studying Computer Science. Actively involved in projects related to Artificial Intelligence (AI), here's a bit more about me:
 
-## 💼 Currently Working On
+### 💼 Currently Working On
 
 🔭 **AI Technology:** Exploring the latest advancements and contributing to AI projects.
 
 ---
 
-## 🌱 Learning and Growing
+### 🌱 Learning and Growing
 
 🌱 **Studying Computer Science:** Currently enrolled in Computer Science, I'm dedicated to expanding my knowledge and honing my skills in various areas of software development.
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and curr
 
 ---
 
-## 🚀 Technologies and Skills
+### 🚀 Technologies and Skills
 
 - **Languages:** Python, Java, C++, C, C#
 - **Frameworks/Libraries:** Proficient in TensorFlow and Scikit-learn
@@ -25,12 +25,12 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and curr
 
 ---
 
-## 💬 Let's Talk About AI
+### 💬 Let's Talk About AI
 
 I'm particularly passionate about Artificial Intelligence. Whether it's machine learning algorithms, natural language processing, or computer vision, feel free to reach out if you want to discuss AI-related topics.
 
 ---
 
-## 🌟 Looking Forward
+### 🌟 Looking Forward
 
 Excited about the journey ahead and the possibilities that technology holds. If you share similar interests or have ideas to exchange, don't hesitate to connect. Let's learn and grow together! 🚀
