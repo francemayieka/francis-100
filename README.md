@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and acti
 🔭 I’m currently working on AI Technology  
 👯 I’m looking to collaborate on Machine Learning  
 💬 Ask me about Artificial Intelligence  
-🎉 I'm code-blooded  
+😂 I'm code-blooded  
 
 ## 💼 Currently Working On
 
