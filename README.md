@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and curr
 
 ## 🌱 Learning and Growing
 
-🌱 *Studying Computer Science:* Currently enrolled in Computer Science, I'm dedicated to expanding my knowledge and honing my skills in various areas of software development.
+🌱 Studying Computer Science: Currently enrolled in Computer Science, I'm dedicated to expanding my knowledge and honing my skills in various areas of software development.
 
-👯 *Collaboration:* Enthusiastic about collaborating on projects, especially those related to Machine Learning. If you have an exciting project or idea, let's connect and work together!
+👯 Collaboration: Enthusiastic about collaborating on projects, especially those related to Machine Learning. If you have an exciting project or idea, let's connect and work together!
 
 ## 🚀 Technologies and Skills
 
