@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francis!
 
-Welcome to my GitHub profile! I'm passionate about Software Engineering and currently studying Computer Science. Actively involved in projects related to Artificial Intelligence (AI), here's a bit more about me:
+Welcome to my GitHub profile! I'm passionate about Software Engineering and actively involved in projects related to Artificial Intelligence (AI), here's a bit more about me:
 
 ## 💫 About Me:
 
