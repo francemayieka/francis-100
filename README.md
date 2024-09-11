@@ -4,14 +4,11 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and acti
 
 ## 💫 About Me:
 
-👀 I’m interested in Software Engineering  
-🌱 I’m currently studying Computer Science  
-🔭 I’m currently working on AI Technology  
-👯 I’m looking to collaborate on Machine Learning  
-💬 Ask me about Artificial Intelligence  
-😂 I'm code-blooded  
+👀 I’m interested in Software Engineering & Artificial Intelligence 
+🌱 I’m currently studying Computer Science
+😂 Fun Fact: I'm code-blooded  
 
-## 💼 Currently Working On
+## 💼 Currently Interested In
 
 🚀 **AI Technology:** Exploring the latest advancements and contributing to AI projects.
 
